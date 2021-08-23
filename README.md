@@ -6,7 +6,7 @@ Can be used with screws or adhesive 3M Command Strips.
 
 ## Source 
 
-Annotated source available in [`DiscHolder.scad`](DiscHolder.scad)
+This was built using the free and open source CAD tool [OpenSCAD](https://openscad.org/). Annotated source available in [`DiscHolder.scad`](DiscHolder.scad)
 
 ## Modifying 
 
