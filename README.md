@@ -10,7 +10,7 @@ If you have a 3D printer, you can print your own by downloading the [STL file](h
 
 ## Source 
 
-This was built using the free and open source CAD tool [OpenSCAD](https://openscad.org/). Annotated source available in [`DiscHolder.scad`](DiscHolder.scad)
+This was built using the free and open source parametric CAD tool [OpenSCAD](https://openscad.org/). Annotated source available in [`DiscHolder.scad`](DiscHolder.scad)
 
 ## Modifying 
 
