@@ -4,6 +4,10 @@ This is a simple model that can be 3D printed to hang disc golf disks from the w
 
 Can be used with screws or adhesive 3M Command Strips.
 
+## For Purchase
+
+Within New Zealand, we sell these at https://designs.duckles.nz/products/disc-golf
+
 ## Printing 
 
 If you have a 3D printer, you can print your own by downloading the [STL file](https://github.com/jduckles/discholder/blob/master/DiscHolder.stl). 
